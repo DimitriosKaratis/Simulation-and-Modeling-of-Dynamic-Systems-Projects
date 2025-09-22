@@ -3,7 +3,7 @@
 This repository contains the implementation of three projects in **Simulation and Modeling of Dynamic Systems**, focusing on parameter estimation, real-time adaptive methods, and robust modeling approaches.  
 The work was developed as part of the *Simulation and Modeling of Dynamic Systems* course at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
 
----
+--- 
 
 ## 📌 Projects Overview
 
